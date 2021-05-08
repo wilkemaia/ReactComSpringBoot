@@ -4,7 +4,7 @@ const Footer = () => {
             <div className="container">
                 <p className="text-light">App desenvolvido por <a href="https://github.com/wilkemaia" target="_blank" rel="noreferrer">Wilke Rodrigues Maia</a></p>
                 <p className="text-light"><small><strong>Projeto de Estudo Spring Boot com React</strong><br />
-      Projeto Liberado no GitHub: <a href="https://github.com/wilkemaia" target="_blank" rel="noreferrer">https://github.com/wilkemaia/ReactComSpringBoot</a></small></p>
+      Email: <a href="wilkemaia2@gmail.com" target="_blank" rel="noreferrer">wilkemaia2@gmail.com</a></small></p>
             </div>
         </footer>
     );
